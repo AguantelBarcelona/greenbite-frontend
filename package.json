@@ -1,0 +1,11 @@
+{
+  "name": "greenbite-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
